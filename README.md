@@ -7,7 +7,7 @@ General info and links for workshop
 - Email Address: \<your email>
 - Password: openshift
 
-[OpenShift Console]((https://console-openshift-console.apps.cluster-wclxl.wclxl.sandbox6.opentlc.com))
+[OpenShift Console](https://console-openshift-console.apps.cluster-wclxl.wclxl.sandbox6.opentlc.com)
 
 [VSCode Server](https://www.example.com)
 

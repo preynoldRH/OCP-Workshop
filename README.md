@@ -6,3 +6,11 @@ START HERE -> [Get A Username](https://get-a-username-dev-guides.apps.cluster-wc
 
 - Email Address: \<your email>
 - Password: openshift
+
+
+# Notes:
+
+Module 1:
+- 2.5.1: "Perspective selector" means the dropdown in the top left
+- 3.1: Click the source code carrot
+- 3.1.2: You'll need to select each opetion. "Containers" is actually "Containerization"
